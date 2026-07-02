@@ -1,1 +1,6 @@
-
+payload:
+  - DOMAIN,emby.m78tv.com
+  - DOMAIN,adult.m78tv.com
+  - DOMAIN,emby.as174.com
+  - DOMAIN-SUFFIX,m78tv.com
+  - IP-CIDR,149.112.84.51/32,no-resolve
